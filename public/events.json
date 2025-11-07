@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Standup",
+    "date": "2025-11-03",
+    "time": "10:00",
+    "duration": 30,
+    "color": "#0ea5e9"
+  },
+  {
+    "id": 2,
+    "title": "Design Sync",
+    "date": "2025-11-03",
+    "time": "10:15",
+    "duration": 45,
+    "color": "#f59e0b"
+  },
+  {
+    "id": 3,
+    "title": "Lunch with Priya",
+    "date": "2025-11-04",
+    "time": "13:00",
+    "duration": 60,
+    "color": "#10b981"
+  },
+  {
+    "id": 4,
+    "title": "Client Demo",
+    "date": "2025-11-07",
+    "time": "15:30",
+    "duration": 60,
+    "color": "#ef4444"
+  },
+  {
+    "id": 5,
+    "title": "Gym",
+    "date": "2025-11-07",
+    "time": "18:00",
+    "duration": 90,
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 6,
+    "title": "Project Retro",
+    "date": "2025-11-15",
+    "time": "11:00",
+    "duration": 60,
+    "color": "#14b8a6"
+  },
+  {
+    "id": 7,
+    "title": "Team Dinner",
+    "date": "2025-11-22",
+    "time": "20:00",
+    "duration": 120,
+    "color": "#f97316"
+  }
+]
