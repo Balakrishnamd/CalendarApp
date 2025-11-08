@@ -1,4 +1,4 @@
-# React Calendar Pro
+# Calendar App
 
 A polished month-view calendar (React + Vite + Tailwind + dayjs).
 
@@ -10,8 +10,5 @@ A polished month-view calendar (React + Vite + Tailwind + dayjs).
 - Handles overlapping events by assigning visual "lanes" and indicating conflicts
 - Clean, responsive UI
 
-## Quickstart
-```bash
-npm install
-npm run dev
+
 ```
